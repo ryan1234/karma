@@ -4,7 +4,7 @@
   "homepage": "http://karma-runner.github.io/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/karma-runner/karma.git"
+    "url": "git://github.com/ryan1234/karma.git"
   },
   "bugs": {
     "url": "https://github.com/karma-runner/karma/issues"
